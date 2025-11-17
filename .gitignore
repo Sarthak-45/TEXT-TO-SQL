@@ -1,0 +1,7 @@
+api.txt
+.env
+*.env
+secrets.toml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
